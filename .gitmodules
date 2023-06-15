@@ -1,0 +1,6 @@
+[submodule "demo-1/swagger-petstore"]
+	path = demo-1/swagger-petstore
+	url = https://github.com/swagger-api/swagger-petstore
+[submodule "demo-1/openapi-petstore"]
+	path = demo-1/openapi-petstore
+	url = https://github.com/OpenAPITools/openapi-petstore

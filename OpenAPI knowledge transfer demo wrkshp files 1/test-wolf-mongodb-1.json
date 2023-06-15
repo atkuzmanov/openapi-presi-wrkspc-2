@@ -1,0 +1,19 @@
+{ 
+    "_id" : NumberLong(99), 
+    "category" : {
+        "_id" : NumberLong(99), 
+        "name" : "string"
+    }, 
+    "name" : "Wolfy", 
+    "photoUrls" : [
+        "string"
+    ], 
+    "tags" : [
+        {
+            "_id" : NumberLong(99), 
+            "name" : "string"
+        }
+    ], 
+    "status" : "AVAILABLE", 
+    "_class" : "org.openapitools.model.Pet"
+}

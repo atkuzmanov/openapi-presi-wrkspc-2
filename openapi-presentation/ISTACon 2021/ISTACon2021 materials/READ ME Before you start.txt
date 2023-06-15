@@ -1,0 +1,5 @@
+Please instal the fonts used in the presentation, before start work! 
+
+Instalation process:
+
+Open the folder named "Fonts" --> Select both files --> Right click on them --> In the menu, click "Instal"
